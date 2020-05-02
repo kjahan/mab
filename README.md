@@ -1,13 +1,13 @@
 
 # Multi-Armed Bandit
-Multi-armed bandit as a service
+Multi-armed bandit optimization as a service
 
 Epsilon-greedy
-=======
+==============
 
 ## General description
  
-This project is an implementation of a number of MAB algorithms such as [epsison-greedy](https://en.wikipedia.org/wiki/Multi-armed_bandit).
+This project is an implementation of a number of [MAB](https://en.wikipedia.org/wiki/Multi-armed_bandit) algorithms including epsison-greedy.
 
 ## Use cases
 
